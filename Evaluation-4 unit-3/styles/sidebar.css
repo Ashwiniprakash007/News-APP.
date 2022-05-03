@@ -1,0 +1,44 @@
+#sidebar{
+    background-color: rgb(249, 185, 129);
+    width:20%;
+    
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap:15px;
+    margin-top: 2px;
+}
+#in{
+    font-size: 20px;
+    width: 80%;
+    margin: auto;
+    font-weight: bolder;
+    background-color: teal;
+}
+#ch{
+    font-size: 20px;
+    width: 80%;
+    margin: auto;
+    font-weight: bolder;
+    background-color: teal;
+}
+#us{
+    font-size: 20px;
+    width: 80%;
+    margin: auto;
+    font-weight: bolder;
+    background-color: teal;
+}
+#uk{
+    font-size: 20px;
+    width: 80%;
+    margin: auto;
+    font-weight: bolder;
+    background-color: teal;
+}
+#nz{
+    font-size: 20px;
+    width: 80%;
+    margin: auto;
+    font-weight: bolder;
+    background-color: teal;
+}
